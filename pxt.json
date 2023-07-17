@@ -1,5 +1,5 @@
 {
-    "name": "Fun with Radio",
+    "name": "motor",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,8 @@
         "无线": "*",
         "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.9",
         "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8",
-        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.4"
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.4",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
